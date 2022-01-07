@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @timothyyjh
-- 👀 I’m interested in Python, C, Networking
-- 📫 Reach me at timothyyjh@gmail.com or https://www.linkedin.com/in/timothy-yeo-55a85a228/
+- 👀 I’m interested in Python, C, Networking, Java
+- 📫 Reach me at timothyyjh@gmail.com
